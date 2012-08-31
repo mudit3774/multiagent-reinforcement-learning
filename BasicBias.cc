@@ -15,7 +15,7 @@ using namespace std;
 
 int main()
 {
-	//srand(time(NULL));
+	srand(time(NULL));
 	double I, Value, AddValue, ValueBias, ValueNoBias;
 	Value = INIT_STOCK_VAL;
 	for(int i=0;i<HISTORY;i++)
