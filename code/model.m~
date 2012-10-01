@@ -65,6 +65,7 @@ for j=1:TickCount
 	end;
 	Index(j,i)=BaseValue;
 end;
+w_K
 YL = [40,160];
 plot(Index);
 ylim(YL);
