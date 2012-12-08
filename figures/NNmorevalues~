@@ -1,0 +1,24 @@
+Iteration    53 
+===============
+
+Correlation
+-----------
+
+overall_corr =  0.99472
+train_corr =  0.99442
+test_corr =  0.97997
+
+Error (in number of points)
+---------------------------
+
+overall_err = -12.932
+Train_err =  2.7119
+Testing_err = -36.390
+
+Mean Square Error
+-----------------
+
+JOverAll =  1.3709e+04
+JTesting =  1.7490e+04
+JTrain =  4.9168e+06
+

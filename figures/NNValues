@@ -1,0 +1,16 @@
+Iteration    50 | Cost: 6.156103e-01
+Program paused. Press enter to continue.
+overall_corr =  0.98837
+train_corr =  0.98761
+test_corr =  0.95508
+overall_err = -46.443
+aa =  4.1563e+06
+bb =  4.1710e+06
+Train_err = -9.8935
+aa =  4.7522e+06
+bb =  4.8529e+06
+Testing_err = -101.25
+JOverAll =  3.1120e+04
+JTesting =  4.0606e+04
+JTrain =  4.8724e+06
+

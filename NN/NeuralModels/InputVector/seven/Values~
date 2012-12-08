@@ -1,0 +1,13 @@
+
+
+overall_corr = -0.26700
+train_corr = -0.21508
+test_corr = -0.35425
+overall_err =  0.047921
+Train_err =  0.012054
+Testing_err =  0.10165
+RMSE =  0.12924
+JOverAll =  0.012340
+JTesting =  0.011348
+JTrain =  0.013002
+warning: legend: ignor

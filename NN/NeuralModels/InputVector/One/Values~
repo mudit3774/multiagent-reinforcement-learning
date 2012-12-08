@@ -1,0 +1,15 @@
+neuralV(1,1,2,20,1)
+
+overall_corr =  0.99635
+train_corr =  0.99663
+test_corr =  0.99396
+overall_err =  0.020251
+Train_err = -0.0098750
+Testing_err =  0.065440
+RMSE =  0.10200
+JOverAll =  0.0083464
+JTesting =  0.0064498
+JTrain =  0.0096107
+
+
+

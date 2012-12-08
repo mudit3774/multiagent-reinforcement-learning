@@ -1,0 +1,21 @@
+function Q = CalculateReward(st,gama)
+
+big_number = 100;
+number_of_models = 6;
+%bias_in_models = load('modelbias.m');
+bias_in_models = [0.01,0.2,0.3,0.5,0.9,0.95]
+%adj = load('adj.m');
+adj = [1 1 1 1 0 0;1 0 1 1 0 1;1 1 0 0 0 0;1 1 0 0 1 0;0 0 0 1 0 1;0 1 0 0 1 0];
+R = Reward(bias_in_models, adj,big_number);
+
+for i = 1:number_of_models 
+	if R(st,i) != big_number
+		Q(i) = R(st,i) + gama*min(R(i,:));
+	else 
+		Q(i) = R(st,i);
+	end
+
+end
+
+end
+ 

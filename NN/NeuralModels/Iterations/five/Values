@@ -1,0 +1,13 @@
+[th1 th2 p1] = neuralV(10,1,2,15,1)
+
+overall_corr =  0.97851
+train_corr =  0.97782
+test_corr =  0.98138
+overall_err =  7.6623e-04
+Train_err =  2.0215e-04
+Testing_err =  0.0016112
+RMSE =  0.018546
+JOverAll =  4.4323e-04
+JTesting =  2.9627e-04
+JTrain =  5.4134e-04
+

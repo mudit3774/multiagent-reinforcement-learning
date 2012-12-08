@@ -1,0 +1,13 @@
+
+
+overall_corr =  0.97779
+train_corr =  0.97614
+test_corr =  0.98943
+overall_err = -0.0025419
+Train_err = -4.4868e-04
+Testing_err = -0.0056775
+RMSE =  0.024795
+JOverAll =  5.3618e-04
+JTesting =  4.6106e-04
+JTrain =  5.8633e-04
+

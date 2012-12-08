@@ -1,0 +1,19 @@
+Training Neural Network... 
+Iteration    30 | Cost: 1.363957e+00
+Program paused. Press enter to continue.
+overall_corr =  0.92205
+train_corr =  0.92513
+test_corr =  0.91425
+overall_err =  0.013149
+aa =  592.24
+bb =  579.96
+Train_err =  0.011329
+aa =  336.00
+bb =  324.52
+Testing_err =  0.015877
+JOverAll =  0.0019326
+JTesting =  0.0019079
+JTrain =  0.0019491
+d = 15
+lamda = 1
+
